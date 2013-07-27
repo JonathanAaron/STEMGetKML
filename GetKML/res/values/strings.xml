@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GetKML</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtURL">Enter a URL</string>
+    <string name="radioServer1">Server 1</string>
+    <string name="radioServer2">Server 2</string>
+    <string name="radioURL"></string>
+    <string name="btnSend">Send</string>
+    <string name="title_activity_get_kml">GetKML</string>
+
+</resources>
